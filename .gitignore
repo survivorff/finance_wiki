@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Docs site build output (如果以后用 MkDocs/Docusaurus/VitePress)
+site/
+.cache/
+node_modules/
+build/
+dist/
