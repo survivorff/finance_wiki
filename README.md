@@ -70,3 +70,12 @@
 - 用 MkDocs / Docusaurus / VitePress 等生成静态文档站
 
 发布相关说明见 [`PUBLISHING.md`](./PUBLISHING.md)。
+
+---
+
+## 可运行代码
+
+深水区的核心数学，配有**可运行的 Python 代码**（纯标准库，零依赖），让你亲手验证原理：
+- 玩具撮合引擎、AMM 与无常损失、债券定价与久期、外汇 CIP 与套息。
+
+见 [`code/`](./code/README.md)。
