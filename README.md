@@ -23,11 +23,11 @@
 | 阶段 | 赛道 | 状态 | 目录 |
 | --- | --- | --- | --- |
 | 1 | 加密货币 · CEX（中心化交易所） | ✅ 初版完成（8 维度深度） | [`crypto/cex/`](./crypto/cex/README.md) |
-| 2 | 加密货币 · DEX（去中心化交易所） | 🚧 进行中 | [`crypto/dex/`](./crypto/dex/README.md) |
-| 3 | 加密货币 · 稳定币 / 借贷 / 衍生品 | ⏳ 待开始 | `crypto/defi/` |
-| 4 | 股票市场（交易所、券商、做市、清算） | 🚧 进行中 | [`stocks/`](./stocks/README.md) |
-| 5 | 外汇市场（FX，全球最大的市场） | ⏳ 待开始 | `forex/` |
-| 6 | 债券与利率市场 | ⏳ 待开始 | `bonds/` |
+| 2 | 加密货币 · DEX（去中心化交易所） | ✅ 初版完成（8 维度深度） | [`crypto/dex/`](./crypto/dex/README.md) |
+| 3 | 加密货币 · 稳定币 / 借贷 / 衍生品 | 🚧 进行中 | [`crypto/defi/`](./crypto/defi/README.md) |
+| 4 | 股票市场（交易所、券商、做市、清算） | ✅ 初版完成（8 维度深度） | [`stocks/`](./stocks/README.md) |
+| 5 | 外汇市场（FX，全球最大的市场） | 🚧 进行中 | [`forex/`](./forex/README.md) |
+| 6 | 债券与利率市场 | 🚧 进行中 | [`bonds/`](./bonds/README.md) |
 | 7 | 大宗商品与期货 | ⏳ 待开始 | `commodities/` |
 | 8 | 支付与清算基础设施（SWIFT、卡组织等） | ⏳ 待开始 | `payments/` |
 
